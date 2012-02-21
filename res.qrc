@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/" >
+        <file>icons/habrahabr.ico</file>
+    </qresource>
+</RCC>
